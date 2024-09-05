@@ -4,7 +4,7 @@ body {
     margin: 0 auto; 
     overflow: hidden; 
 } .controller.ds4{
-    background: url(https://i.imgur.com/ZDjUbh0.png);
+    background: url(https://philipbry.github.io/ZDjUbh0.png);
     width: 794px;
     height: 639px;
     margin-left: 0;
@@ -15,7 +15,7 @@ body {
     left: 222px;
     top: 294px;
 }.ds4 .stick {
-    background: url(https://i.imgur.com/3sBwghP.png);
+    background: url(https://philipbry.github.io/3sBwghP.png);
     width: 95px;
     height: 95px;
 } .ds4 .stick.pressed.left, .ds4 .stick.pressed.right {
@@ -29,7 +29,7 @@ body {
     left: 559px;
     top: 152px;
 } .ds4 .button {
-    background: url(https://i.imgur.com/HdHbA0t.png);
+    background: url(https://philipbry.github.io/HdHbA0t.png);
     width: 54px;
     height: 54px;
 } .ds4 .button.pressed {
@@ -59,7 +59,7 @@ body {
 } .ds4 .quadrant { 
     display: none; 
 } .ds4 .back, .ds4 .start {
-    background: url(https://i.imgur.com/PrAfLDQ.png);
+    background: url(https://philipbry.github.io/PrAfLDQ.png);
     width: 23px;
     height: 37px;
     margin-top: -8px;
@@ -82,7 +82,7 @@ body {
     left: 90px;
     top: 98px;
 } .ds4 .bumper {
-    background: url(https://i.imgur.com/wijYAzG.png);
+    background: url(https://philipbry.github.io/wijYAzG.png);
     width: 114px;
     height: 36px;
     opacity: 0;
@@ -93,7 +93,7 @@ body {
     height: 97px;
     left: 100px;
 } .ds4 .trigger {
-    background: url(https://i.imgur.com/KcAyIZw.png);
+    background: url(https://philipbry.github.io/KcAyIZw.png);
     width: 100px;
     height: 97px;
     opacity: 0;
@@ -107,7 +107,7 @@ body {
     left: 237px;
     top: 97px;
 } .ds4 .touchpad.pressed {
-    background: url(https://i.imgur.com/Gnd106J.png);
+    background: url(https://philipbry.github.io/Gnd106J.png);
 } .ds4 .dpad {
     position: absolute;
     width: 125px;
@@ -115,7 +115,7 @@ body {
     top: 171px;
     left: 82px;
 } .ds4 .face {
-    background: url(https://i.imgur.com/548MWGT.png);
+    background: url(https://philipbry.github.io/548MWGT.png);
     position: absolute;
 } .ds4 .face.up, .ds4 .face.down {
     width: 44px;
